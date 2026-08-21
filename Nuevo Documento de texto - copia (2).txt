@@ -2,4 +2,6 @@ Esto es un cambio nuevo
 
 esto es otro cambio
 
-Estoy pisando el trabajo de user1
+Esta es la linea 5, soy el user1
+
+Estoy pisando el trabajo de user1;
